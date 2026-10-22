@@ -1,0 +1,35 @@
+/*PALETA DE COLORES DE LA PAGINA
+Gris del Título	Gris Asfalto / Claro	#D8D8D8
+Color Dominante	Negro Grafito	#1A1A1A
+Acento Deportivo	Azul Subaru / Carreras	#0055C4
+Acento Dinámico	Rojo Competición	#E60021
+Fondo Principal	Blanco Puro / Neve	#FFFFFF*/
+
+body{background-color: #FFFFFF;}
+
+h1 {background-color: lightgray;
+    padding-top: 30px;
+    text-align: center;
+    height: 80px;
+    border-radius: 20px;
+    text-align: center;}
+
+.fotoprincipal{border-radius: 12px;
+    box-shadow: 0 4px 15px;
+    margin-left: 30px;
+}
+
+.fotoprincipal2{border-radius: 12px;
+    box-shadow: 0 4px 15px;
+    margin-left: 20px;
+}
+
+.fotoprincipal3{border-radius: 12px;
+    box-shadow: 0 4px 15px;
+    margin-left: 20px;
+    height: 140px;}
+
+.Textopuntos1{color:#1A1A1A;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif }
+
+.P{font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif}
